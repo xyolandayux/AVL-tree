@@ -12,6 +12,8 @@ empty           -- an empty tree
 
 
 
+
+
 with functions such as 
 
 (insertavl t n) -- add number n to t, if not present
@@ -21,6 +23,8 @@ with functions such as
 (listavl t)     -- ordered list of elements in t
 
 (sizeavl t)     -- the number of elements in t
+
+
 
 
 
