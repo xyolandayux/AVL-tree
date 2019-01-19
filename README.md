@@ -10,6 +10,8 @@ empty           -- an empty tree
 
 (node-key t)    -- number labelling the root of t 
 
+
+
 with functions such as 
 
 (insertavl t n) -- add number n to t, if not present
@@ -20,7 +22,9 @@ with functions such as
 
 (sizeavl t)     -- the number of elements in t
 
-with more advanced functions
+
+
+set functions done by implementing avl-trees
 
 emptyset              -- the empty set
 
